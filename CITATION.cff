@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "AI Systems Lab"
+authors:
+  - given-names: "Rumman"
+    family-names: "Hassan"
+    website: "https://rummanhassan.cv"
+repository-code: "https://github.com/rummanhassan13/ai-systems-lab"
+license: MIT
